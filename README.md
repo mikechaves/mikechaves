@@ -19,13 +19,13 @@ I'm a passionate software developer with a strong interest in open-source projec
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [More blog posts](https://mikechaves.com/blog)
+➡️ [More blog posts](https://mikechaves.io/blog)
 
 ## 📫 How to reach me
 
-- **Email**: mikechaves@example.com
-- **Twitter**: [@mikechaves](https://twitter.com/mikechaves)
-- **LinkedIn**: [Mike Chaves](https://linkedin.com/in/mikechaves)
+- **Email**: mike@digitalhous.com
+- **X**: [@mikechaves](https://x.com/mikechaves_io)
+- **LinkedIn**: [Mike Chaves](https://linkedin.com/in/mikejchaves)
 
 ## 🌱 Currently Learning
 
@@ -35,8 +35,8 @@ I'm a passionate software developer with a strong interest in open-source projec
 
 ## 📚 Projects
 
-- **[Project 1](https://github.com/mikechaves/project1)**: A brief description of Project 1.
-- **[Project 2](https://github.com/mikechaves/project2)**: A brief description of Project 2.
-- **[Project 3](https://github.com/mikechaves/project3)**: A brief description of Project 3.
+- **[SpeakEasy](https://github.com/mikechaves/speak-easy-mr)**: Reimagining XR for a more inclusive future with voice-driven AI interfaces for users with physical challenges.
+- **[Sound Escape VR](https://github.com/mikechaves/sound-escape-vr)**: An immersive VR music creation and visualization experience with a retro 80s synthwave aesthetic, allowing users to compose music and see the environment transform in response.
+- **[Material Explorer](https://github.com/mikechaves/material-explorer)**: An interactive web application for creating, customizing, and visualizing 3D materials in real-time using Three.js and React Three Fiber.
 
 Thanks for stopping by! 😊
